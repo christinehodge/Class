@@ -1,0 +1,27 @@
+/*Header Styles */
+
+.header {height: 250px;
+    max-height: 500px;
+    background-image: url("pexels-photo-713661.jpeg");
+    opacity: 0.6;
+    background-size: cover;
+    background-repeat: no repeat;
+    background-position: bottom;
+    font-style: Calibri;
+    font-weight: Bold;
+    color: rgb(10, 10, 10);
+}
+.h1 {font-style: Calibri;
+    font-size: 36 pt;
+}
+
+    
+    h2 {font-family: Calibri; 
+    font-weight: Bold;
+    font-variant: Small-caps}
+    
+    h3 {font-family: Calibri;
+    font-weight: Bold}
+    
+    h4 {font-family: Calibri;
+    font-weight: Normal}
