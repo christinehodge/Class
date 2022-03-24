@@ -9,7 +9,7 @@ p {
 .customNav {
   position: fixed;
   width: 100%;
-  background: url("/Users/christineaehaas/Desktop/Bootcamp/20.2.1/images/transparency.png");
+  background: url("20.2.1/images/transparency.png");
   background-color: transparent !important;
   background-size: cover;
   z-index: 10;
@@ -30,7 +30,7 @@ p {
 }
 
 .dropdown-menu {
-  background: url("/Users/christineaehaas/Desktop/Bootcamp/20.2.1/images/transparency.png");
+  background: url("20.2.1/images/transparency.png");
   background-color: transparent !important;
   background-size: cover;
 }
@@ -49,7 +49,7 @@ color: white !important;
 }
 
 .jumbotron {
-  background-image: url(/Users/christineaehaas/Desktop/Bootcamp/20.2.1/images/rockOn_dark.jpg);
+  background-image: url(20.2.1/images/rockOn_dark.jpg);
   background-size: cover; 
   background-repeat: no-repeat;
   height: 500px;
@@ -104,7 +104,7 @@ color: white !important;
 }
 
 .emailContain{
-  background: url(/Users/christineaehaas/Desktop/Bootcamp/20.2.1/images/emailBG.jpg);
+  background: url(20.2.1/images/emailBG.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
